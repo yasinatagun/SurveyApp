@@ -1,2 +1,2 @@
 # SurveyApp
- Survey App Created with Flutter
+ SurveyApp created with Flutter and Dart
